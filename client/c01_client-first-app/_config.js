@@ -8,8 +8,8 @@ var _CONFIG =
 , "REMOTE_API_URL": "http://92.112.184.206:54382/api2"
 , "SERVER_LOCATION":"Local"
 
-//"LOGIN_PAGE":     "{SECURE_PATH}/login_client.html"                                   //#.(51015.02.3)
-, "LOGIN_PAGE":     "{SECURE_PATH}/client/c01_client-first-app/login_client.html"       // .(51015.02.3 RAM Needs full path for Live Server)
+//"LOGIN_PAGE":     "{SECURE_PATH}/index.html"                                   //#.(51015.02.3)
+, "LOGIN_PAGE":     "{SECURE_PATH}/client/c01_client-first-app/index.html"       // .(51015.02.3 RAM Needs full path for Live Server)
 , "LOGIN_SUCCESS":  "{CLIENT_PATH}/member-profile.html"
 , "LOGIN_FAILURE":  "{CLIENT_PATH}/index.html"
    }
